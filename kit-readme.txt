@@ -42,10 +42,13 @@ KitsuneFoxacary              Nine new medical items you unlock from
                              time in biome storms.
 KitsuneStacks                Bigger stacks: resources, ammo, food, drinks,
                              medical items and more.
+KitsuneBetterFarming         Harvested crops go back to an early growing
+                             stage instead of disappearing, so there's no
+                             replanting. 25% chance of a bonus seed.
 
 Some of these change gameplay, not just performance: Trap XP, Zombie Reach,
-Power, Vehicle Overhaul, Kitchen, Foxacary and Stacks. Read the list before
-you install all of it.
+Power, Vehicle Overhaul, Kitchen, Foxacary, Stacks and Better Farming. Read
+the list before you install all of it.
 
 
 What's in Optional/
