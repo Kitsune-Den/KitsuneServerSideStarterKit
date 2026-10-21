@@ -18,8 +18,9 @@ Core mods go in `Mods/`. Copy them all in, or delete the ones you don't want: ea
 | [Kitsune Power](https://github.com/Kitsune-Den/KitsunePower) | Lenient power: solar, generator and battery banks each put out up to 4500W, gas goes twice as far, and batteries hold twice the charge |
 | [Kitsune Vehicle Overhaul](https://github.com/Kitsune-Den/KitsuneVehicleOverhaul) | Vehicles take less damage from cacti, bushes and crashes |
 | [Kitsune Kitchen](https://github.com/Kitsune-Den/KitsuneKitchen7D) | New dishes and drinks with their own buffs, and Sham Sandwiches sell to traders |
+| [Kitsune Foxacary](https://github.com/Kitsune-Den/KitsuneFoxacary) | New medical items (braces, salves, a suture kit, a transfusion kit) you unlock from medical journals |
 
-Trap XP, Zombie Reach, Power, Vehicle Overhaul and Kitchen change gameplay, not just performance. Have a look before you install all of it.
+Trap XP, Zombie Reach, Power, Vehicle Overhaul, Kitchen and Foxacary change gameplay, not just performance. Have a look before you install all of it.
 
 Optional mods go in `Optional/`:
 

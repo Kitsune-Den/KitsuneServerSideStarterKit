@@ -36,10 +36,13 @@ zz_Kitsune Vehicle Overhaul  Vehicles take less damage from cacti, bushes
                              and crashes.
 KitsuneKitchen               New dishes and drinks with their own buffs,
                              and Sham Sandwiches sell to traders.
+KitsuneFoxacary              New medical items (braces, salves, a suture
+                             kit, a transfusion kit) you unlock from
+                             medical journals.
 
 Some of these change gameplay, not just performance: Trap XP, Zombie Reach,
-Power, Vehicle Overhaul and Kitchen. Read the list before you install all
-of it.
+Power, Vehicle Overhaul, Kitchen and Foxacary. Read the list before you
+install all of it.
 
 
 What's in Optional/

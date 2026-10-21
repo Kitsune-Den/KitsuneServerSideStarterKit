@@ -12,6 +12,7 @@
     { "repo": "KitsunePower",           "tag": "v1.0.3", "asset": "KitsunePower-1.0.3.zip",            "folder": "KitsunePower",                "version": "1.0.3", "group": "Mods" },
     { "repo": "KitsuneVehicleOverhaul", "tag": "v1.3.2", "asset": "KitsuneVehicleOverhaul-v1.3.2.zip", "folder": "zz_Kitsune Vehicle Overhaul", "version": "1.3.2", "group": "Mods" },
     { "repo": "KitsuneKitchen7D",       "tag": "v1.5.1", "asset": "KitsuneKitchen-v1.5.1.zip",         "folder": "KitsuneKitchen",              "version": "1.5.1", "group": "Mods" },
+    { "repo": "KitsuneFoxacary",        "tag": "v1.1.0", "asset": "KitsuneFoxacary-v1.1.0.zip",        "folder": "KitsuneFoxacary",             "version": "1.1.0", "group": "Mods" },
     { "repo": "KitsunePvPExtended",     "tag": "v0.2.2", "asset": "KitsunePvPExtended-0.2.2.zip",      "folder": "KitsunePvPExtended",          "version": "0.2.2", "group": "Optional/PvP" },
     { "repo": "KitsuneCraftingTimes",   "tag": "v1.0.1", "asset": "KitsuneCraftingTimes_Little-v1.0.1.zip", "folder": "KitsuneCraftingTimes_Little", "version": "1.0.1", "group": "Optional/CraftingTimes-PickOne" },
     { "repo": "KitsuneCraftingTimes",   "tag": "v1.0.1", "asset": "KitsuneCraftingTimes_Medium-v1.0.1.zip", "folder": "KitsuneCraftingTimes_Medium", "version": "1.0.1", "group": "Optional/CraftingTimes-PickOne" },
