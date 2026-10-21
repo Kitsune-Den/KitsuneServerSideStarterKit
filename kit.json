@@ -1,0 +1,20 @@
+{
+  "name": "KitsuneServerSideStarterKit",
+  "displayName": "Kitsune Server Side Starter Kit",
+  "version": "1.0.0",
+  "owner": "Kitsune-Den",
+  "mods": [
+    { "repo": "KitsuneServerPerf",      "tag": "v0.2.1", "asset": "KitsuneServerPerf-v0.2.1.zip",      "folder": "KitsuneServerPerf",           "version": "0.2.1", "group": "Mods" },
+    { "repo": "KitsuneFuelSaver",       "tag": "v1.1.1", "asset": "KitsuneFuelSaver-v1.1.1.zip",       "folder": "KitsuneFuelSaver",            "version": "1.1.1", "group": "Mods" },
+    { "repo": "KitsuneTerrainFit",      "tag": "v0.1.8", "asset": "KitsuneTerrainFit-0.1.8.zip",       "folder": "KitsuneTerrainFit",           "version": "0.1.8", "group": "Mods" },
+    { "repo": "KitsuneTrapXP",          "tag": "v0.7.4", "asset": "KitsuneTrapXP-0.7.4.zip",           "folder": "KitsuneTrapXP",               "version": "0.7.4", "group": "Mods" },
+    { "repo": "KitsuneZombieReach",     "tag": "v1.0.4", "asset": "KitsuneZombieReach-1.0.4.zip",      "folder": "KitsuneZombieReach",          "version": "1.0.4", "group": "Mods" },
+    { "repo": "KitsunePower",           "tag": "v1.0.3", "asset": "KitsunePower-1.0.3.zip",            "folder": "KitsunePower",                "version": "1.0.3", "group": "Mods" },
+    { "repo": "KitsuneVehicleOverhaul", "tag": "v1.3.2", "asset": "KitsuneVehicleOverhaul-v1.3.2.zip", "folder": "zz_Kitsune Vehicle Overhaul", "version": "1.3.2", "group": "Mods" },
+    { "repo": "KitsunePvPExtended",     "tag": "v0.2.2", "asset": "KitsunePvPExtended-0.2.2.zip",      "folder": "KitsunePvPExtended",          "version": "0.2.2", "group": "Optional/PvP" },
+    { "repo": "KitsuneCraftingTimes",   "tag": "v1.0.1", "asset": "KitsuneCraftingTimes_Little-v1.0.1.zip", "folder": "KitsuneCraftingTimes_Little", "version": "1.0.1", "group": "Optional/CraftingTimes-PickOne" },
+    { "repo": "KitsuneCraftingTimes",   "tag": "v1.0.1", "asset": "KitsuneCraftingTimes_Medium-v1.0.1.zip", "folder": "KitsuneCraftingTimes_Medium", "version": "1.0.1", "group": "Optional/CraftingTimes-PickOne" },
+    { "repo": "KitsuneCraftingTimes",   "tag": "v1.0.1", "asset": "KitsuneCraftingTimes_Fast-v1.0.1.zip",   "folder": "KitsuneCraftingTimes_Fast",   "version": "1.0.1", "group": "Optional/CraftingTimes-PickOne" },
+    { "repo": "KitsuneCraftingTimes",   "tag": "v1.0.1", "asset": "KitsuneCraftingTimes_Faster-v1.0.1.zip", "folder": "KitsuneCraftingTimes_Faster", "version": "1.0.1", "group": "Optional/CraftingTimes-PickOne" }
+  ]
+}
