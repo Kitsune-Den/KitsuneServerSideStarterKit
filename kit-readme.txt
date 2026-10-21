@@ -34,9 +34,12 @@ KitsunePower                 More solar power by day, generators use half
                              the fuel, batteries charge twice as fast.
 zz_Kitsune Vehicle Overhaul  Vehicles take less damage from cacti, bushes
                              and crashes.
+KitsuneKitchen               New dishes and drinks with their own buffs,
+                             and Sham Sandwiches sell to traders.
 
 Some of these change gameplay, not just performance: Trap XP, Zombie Reach,
-Power and Vehicle Overhaul. Read the list before you install all of it.
+Power, Vehicle Overhaul and Kitchen. Read the list before you install all
+of it.
 
 
 What's in Optional/
@@ -59,8 +62,9 @@ Versions in this kit
 
 {{MODS}}
 
-Each mod's settings, console commands and full notes are on its GitHub page:
-https://github.com/Kitsune-Den/<mod name>
+Each mod's settings, console commands and full notes are on its GitHub page.
+There's a link to every one at
+https://github.com/Kitsune-Den/KitsuneServerSideStarterKit
 
 
 License
