@@ -20,8 +20,9 @@ Core mods go in `Mods/`. Copy them all in, or delete the ones you don't want: ea
 | [Kitsune Kitchen](https://github.com/Kitsune-Den/KitsuneKitchen7D) | New dishes and drinks with their own buffs, and Sham Sandwiches sell to traders |
 | [Kitsune Foxacary](https://github.com/Kitsune-Den/KitsuneFoxacary) | Nine new medical items you unlock from medical journals: braces, salves, sutures, shots and a transfusion kit. Some buy you time in biome storms |
 | [Kitsune Stacks](https://github.com/Kitsune-Den/KitsuneStacks) | Bigger stacks: resources, ammo, food, drinks, medical items and more |
+| [Kitsune Better Farming](https://github.com/Kitsune-Den/KitsuneBetterFarming) | Harvested crops go back to an early growing stage instead of disappearing, so there's no replanting. Each harvest has a 25% chance of a bonus seed |
 
-Trap XP, Zombie Reach, Power, Vehicle Overhaul, Kitchen, Foxacary and Stacks change gameplay, not just performance. Have a look before you install all of it.
+Trap XP, Zombie Reach, Power, Vehicle Overhaul, Kitchen, Foxacary, Stacks and Better Farming change gameplay, not just performance. Have a look before you install all of it.
 
 Optional mods go in `Optional/`:
 
