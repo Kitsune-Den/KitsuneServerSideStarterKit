@@ -39,10 +39,12 @@ KitsuneKitchen               New dishes and drinks with their own buffs,
 KitsuneFoxacary              New medical items (braces, salves, a suture
                              kit, a transfusion kit) you unlock from
                              medical journals.
+KitsuneStacks                Bigger stacks: resources, ammo, food, drinks,
+                             medical items and more.
 
 Some of these change gameplay, not just performance: Trap XP, Zombie Reach,
-Power, Vehicle Overhaul, Kitchen and Foxacary. Read the list before you
-install all of it.
+Power, Vehicle Overhaul, Kitchen, Foxacary and Stacks. Read the list before
+you install all of it.
 
 
 What's in Optional/
