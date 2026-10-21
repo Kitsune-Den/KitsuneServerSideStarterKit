@@ -36,9 +36,10 @@ zz_Kitsune Vehicle Overhaul  Vehicles take less damage from cacti, bushes
                              and crashes.
 KitsuneKitchen               New dishes and drinks with their own buffs,
                              and Sham Sandwiches sell to traders.
-KitsuneFoxacary              New medical items (braces, salves, a suture
-                             kit, a transfusion kit) you unlock from
-                             medical journals.
+KitsuneFoxacary              Nine new medical items you unlock from
+                             medical journals: braces, salves, sutures,
+                             shots and a transfusion kit. Some buy you
+                             time in biome storms.
 KitsuneStacks                Bigger stacks: resources, ammo, food, drinks,
                              medical items and more.
 
