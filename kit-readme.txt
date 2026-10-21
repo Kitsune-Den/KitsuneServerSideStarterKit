@@ -30,8 +30,8 @@ KitsuneTerrainFit            Terrain meets the blocks you build on it,
 KitsuneTrapXP                Trap and turret kills give the owner XP.
 KitsuneZombieReach           Zombie and animal hits land closer to where
                              they actually are.
-KitsunePower                 More solar power by day, generators use half
-                             the fuel, batteries charge twice as fast.
+KitsunePower                 Lenient power: solar, generator and battery
+                             banks each put out up to 4500W.
 zz_Kitsune Vehicle Overhaul  Vehicles take less damage from cacti, bushes
                              and crashes.
 KitsuneKitchen               New dishes and drinks with their own buffs,

@@ -15,7 +15,7 @@ Core mods go in `Mods/`. Copy them all in, or delete the ones you don't want: ea
 | [Kitsune Terrain Fit](https://github.com/Kitsune-Den/KitsuneTerrainFit) | Terrain meets the blocks you build on it, instead of dipping away around them |
 | [Kitsune Trap XP](https://github.com/Kitsune-Den/KitsuneTrapXP) | Trap and turret kills give the owner XP, no perk needed |
 | [Kitsune Zombie Reach](https://github.com/Kitsune-Den/KitsuneZombieReach) | Zombie and animal hits land closer to where they actually are |
-| [Kitsune Power](https://github.com/Kitsune-Den/KitsunePower) | More solar power by day, generators use half the fuel, batteries charge twice as fast |
+| [Kitsune Power](https://github.com/Kitsune-Den/KitsunePower) | Lenient power: solar, generator and battery banks each put out up to 4500W, gas goes twice as far, and batteries hold twice the charge |
 | [Kitsune Vehicle Overhaul](https://github.com/Kitsune-Den/KitsuneVehicleOverhaul) | Vehicles take less damage from cacti, bushes and crashes |
 | [Kitsune Kitchen](https://github.com/Kitsune-Den/KitsuneKitchen7D) | New dishes and drinks with their own buffs, and Sham Sandwiches sell to traders |
 
