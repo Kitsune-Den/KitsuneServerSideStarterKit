@@ -23,8 +23,9 @@ Core mods go in `Mods/`. Copy them all in, or delete the ones you don't want: ea
 | [Kitsune Better Farming](https://github.com/Kitsune-Den/KitsuneBetterFarming) | Harvested crops go back to an early growing stage instead of disappearing, so there's no replanting. Each harvest has a 25% chance of a bonus seed |
 | [Kitsune Auger Reach](https://github.com/Kitsune-Den/KitsuneAugerReach) | The auger reaches about a meter further, for digging and for hitting things |
 | [Kitsune Backpack](https://github.com/AdaInTheLab/KitsuneBackpack) | A 136-slot backpack that keeps vanilla's locked slots: 32 free at spawn, and Pack Mule unlocks the rest. The death bag grows to fit it all |
+| [Kitsune Spikes Extended](https://github.com/Kitsune-Den/KitsuneSpikesExtended) | Steel spike traps, and cone spikes you upgrade from wood to iron-tipped, then soak in gas and set on fire. Trap XP pays for their kills |
 
-Trap XP, Zombie Reach, Power, Vehicle Overhaul, Kitchen, Foxacary, Stacks, Better Farming, Auger Reach and Backpack change gameplay, not just performance. Have a look before you install all of it.
+Trap XP, Zombie Reach, Power, Vehicle Overhaul, Kitchen, Foxacary, Stacks, Better Farming, Auger Reach, Backpack and Spikes Extended change gameplay, not just performance. Have a look before you install all of it.
 
 Backpack is safe to add to an existing save, but removing it later shrinks bags back to vanilla, and anything in the extra slots can be lost. Don't run it alongside another bag-size mod.
 
