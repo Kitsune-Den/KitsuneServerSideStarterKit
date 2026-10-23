@@ -47,10 +47,15 @@ KitsuneBetterFarming         Harvested crops go back to an early growing
                              replanting. 25% chance of a bonus seed.
 KitsuneAugerReach            The auger reaches about a meter further, for
                              digging and for hitting things.
+KitsuneBackpack              A 136-slot backpack that keeps vanilla's
+                             locked slots: 32 free at spawn, and Pack Mule
+                             unlocks the rest. Safe to add to a save, but
+                             removing it later can lose items in the extra
+                             slots.
 
 Some of these change gameplay, not just performance: Trap XP, Zombie Reach,
-Power, Vehicle Overhaul, Kitchen, Foxacary, Stacks, Better Farming and Auger
-Reach. Read the list before you install all of it.
+Power, Vehicle Overhaul, Kitchen, Foxacary, Stacks, Better Farming, Auger
+Reach and Backpack. Read the list before you install all of it.
 
 
 What's in Optional/

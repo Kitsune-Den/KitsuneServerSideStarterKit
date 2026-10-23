@@ -32,15 +32,22 @@ function Invoke-Gh {
     & gh @args 2>$null
 }
 
+# The mod's GitHub repo as owner/name. Mods live under the kit's owner unless
+# their kit.json entry names another one.
+function Get-Repo($mod) {
+    $owner = if ($mod.owner) { $mod.owner } else { $kit.owner }
+    return "$owner/$($mod.repo)"
+}
+
 # Downloads one release asset into the cache and returns its path.
 function Get-Asset($mod) {
     $dir  = Join-Path (Join-Path $cache $mod.repo) $mod.tag
     $file = Join-Path $dir $mod.asset
     if (Test-Path $file) { return $file }
     New-Item -ItemType Directory -Path $dir -Force | Out-Null
-    Invoke-Gh release download $mod.tag -R "$($kit.owner)/$($mod.repo)" -p $mod.asset -D $dir
+    Invoke-Gh release download $mod.tag -R (Get-Repo $mod) -p $mod.asset -D $dir
     if ($LASTEXITCODE -ne 0 -or -not (Test-Path $file)) {
-        $have = Invoke-Gh release view $mod.tag -R "$($kit.owner)/$($mod.repo)" --json assets -q '.assets[].name'
+        $have = Invoke-Gh release view $mod.tag -R (Get-Repo $mod) --json assets -q '.assets[].name'
         if ($LASTEXITCODE -ne 0) { Fail "$($mod.repo): there's no published release $($mod.tag) yet" }
         Fail "$($mod.repo) $($mod.tag): no asset '$($mod.asset)'. Release has: $($have -join ', ')"
     }
@@ -49,7 +56,7 @@ function Get-Asset($mod) {
 
 # Writes a file from the mod's repo, at its release tag, into $dest.
 function Save-RepoFile($mod, [string]$path, [string]$dest) {
-    $json = Invoke-Gh api "repos/$($kit.owner)/$($mod.repo)/contents/$($path)?ref=$($mod.tag)"
+    $json = Invoke-Gh api "repos/$(Get-Repo $mod)/contents/$($path)?ref=$($mod.tag)"
     if ($LASTEXITCODE -ne 0) { Fail "$($mod.repo) $($mod.tag): couldn't read $path" }
     $content = ($json -join "`n" | ConvertFrom-Json).content
     [System.IO.File]::WriteAllBytes($dest, [Convert]::FromBase64String($content))
