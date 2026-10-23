@@ -52,10 +52,14 @@ KitsuneBackpack              A 136-slot backpack that keeps vanilla's
                              unlocks the rest. Safe to add to a save, but
                              removing it later can lose items in the extra
                              slots.
+KitsuneSpikesExtended        Steel spike traps, and cone spikes you upgrade
+                             from wood to iron-tipped, then soak in gas and
+                             set on fire. Trap XP pays for their kills.
 
 Some of these change gameplay, not just performance: Trap XP, Zombie Reach,
 Power, Vehicle Overhaul, Kitchen, Foxacary, Stacks, Better Farming, Auger
-Reach and Backpack. Read the list before you install all of it.
+Reach, Backpack and Spikes Extended. Read the list before you install all
+of it.
 
 
 What's in Optional/
