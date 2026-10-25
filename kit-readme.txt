@@ -55,10 +55,14 @@ KitsuneBackpack              A 136-slot backpack that keeps vanilla's
 KitsuneSpikesExtended        Steel spike traps, and cone spikes you upgrade
                              from wood to iron-tipped, then soak in gas and
                              set on fire. Trap XP pays for their kills.
+KitsuneAppliances            Working stoves, fridges and sinks: stoves cook
+                             like campfires, fridges are lockable 120-slot
+                             cold storage, sinks fill empty jars. Pick up
+                             the real ones in the world or craft your own.
 
 Some of these change gameplay, not just performance: Trap XP, Zombie Reach,
 Power, Vehicle Overhaul, Kitchen, Foxacary, Stacks, Better Farming, Auger
-Reach, Backpack and Spikes Extended. Read the list before you install all
+Reach, Backpack, Spikes Extended and Appliances. Read the list before you install all
 of it.
 
 
