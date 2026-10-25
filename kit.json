@@ -1,7 +1,7 @@
 {
   "name": "KitsuneServerSideStarterKit",
   "displayName": "Kitsune Server Side Starter Kit",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "owner": "Kitsune-Den",
   "mods": [
     { "repo": "KitsuneServerPerf",      "tag": "v0.2.1", "asset": "KitsuneServerPerf-v0.2.1.zip",      "folder": "KitsuneServerPerf",           "version": "0.2.1", "group": "Mods" },
@@ -18,7 +18,7 @@
     { "repo": "KitsuneAugerReach",      "tag": "v1.0.0", "asset": "KitsuneAugerReach-1.0.0.zip",       "folder": "KitsuneAugerReach",           "version": "1.0.0", "group": "Mods" },
     { "repo": "KitsuneBackpack",        "tag": "v1.2.2", "asset": "KitsuneBackpack-1.2.2.zip",         "folder": "KitsuneBackpack",             "version": "1.2.2", "group": "Mods", "owner": "AdaInTheLab" },
     { "repo": "KitsuneSpikesExtended",  "tag": "v1.0.0", "asset": "KitsuneSpikesExtended-1.0.0.zip",   "folder": "KitsuneSpikesExtended",       "version": "1.0.0", "group": "Mods" },
-    { "repo": "KitsuneAppliances",      "tag": "v0.1.1", "asset": "KitsuneAppliances-0.1.1.zip",       "folder": "KitsuneAppliances",           "version": "0.1.1", "group": "Mods" },
+    { "repo": "KitsuneAppliances",      "tag": "v0.3.0", "asset": "KitsuneAppliances-0.3.0.zip",       "folder": "KitsuneAppliances",           "version": "0.3.0", "group": "Mods" },
     { "repo": "KitsunePvPExtended",     "tag": "v0.2.2", "asset": "KitsunePvPExtended-0.2.2.zip",      "folder": "KitsunePvPExtended",          "version": "0.2.2", "group": "Optional/PvP" },
     { "repo": "KitsuneCraftingTimes",   "tag": "v1.0.1", "asset": "KitsuneCraftingTimes_Little-v1.0.1.zip", "folder": "KitsuneCraftingTimes_Little", "version": "1.0.1", "group": "Optional/CraftingTimes-PickOne" },
     { "repo": "KitsuneCraftingTimes",   "tag": "v1.0.1", "asset": "KitsuneCraftingTimes_Medium-v1.0.1.zip", "folder": "KitsuneCraftingTimes_Medium", "version": "1.0.1", "group": "Optional/CraftingTimes-PickOne" },

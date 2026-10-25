@@ -24,7 +24,7 @@ Core mods go in `Mods/`. Copy them all in, or delete the ones you don't want: ea
 | [Kitsune Auger Reach](https://github.com/Kitsune-Den/KitsuneAugerReach) | The auger reaches about a meter further, for digging and for hitting things |
 | [Kitsune Backpack](https://github.com/AdaInTheLab/KitsuneBackpack) | A 136-slot backpack that keeps vanilla's locked slots: 32 free at spawn, and Pack Mule unlocks the rest. The death bag grows to fit it all |
 | [Kitsune Spikes Extended](https://github.com/Kitsune-Den/KitsuneSpikesExtended) | Steel spike traps, and cone spikes you upgrade from wood to iron-tipped, then soak in gas and set on fire. Trap XP pays for their kills |
-| [Kitsune Appliances](https://github.com/Kitsune-Den/KitsuneAppliances) | Working appliances: stoves cook like campfires, fridges are lockable 120-slot cold storage, sinks fill empty jars. Pick up the real ones out in the world or craft your own |
+| [Kitsune Appliances](https://github.com/Kitsune-Den/KitsuneAppliances) | Working appliances: stoves cook like campfires, fridges are lockable 120-slot cold storage, and at a sink you hold empty jars and press E for water. Wood stoves found in the world can be picked up |
 
 Trap XP, Zombie Reach, Power, Vehicle Overhaul, Kitchen, Foxacary, Stacks, Better Farming, Auger Reach, Backpack, Spikes Extended and Appliances change gameplay, not just performance. Have a look before you install all of it.
 
