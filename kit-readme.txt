@@ -57,8 +57,9 @@ KitsuneSpikesExtended        Steel spike traps, and cone spikes you upgrade
                              set on fire. Trap XP pays for their kills.
 KitsuneAppliances            Working stoves, fridges and sinks: stoves cook
                              like campfires, fridges are lockable 120-slot
-                             cold storage, sinks fill empty jars. Pick up
-                             the real ones in the world or craft your own.
+                             cold storage, and at a sink you hold empty
+                             jars and press E for water. Wood stoves found
+                             in the world can be picked up.
 
 Some of these change gameplay, not just performance: Trap XP, Zombie Reach,
 Power, Vehicle Overhaul, Kitchen, Foxacary, Stacks, Better Farming, Auger
